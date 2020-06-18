@@ -9,4 +9,4 @@ Subsequently, you can run the solution using
 ```Python
 python3 solution.py
 ```
-The output should be time the mouse spent in each compartment.
+The output should be the time the mouse spent in each compartment.
